@@ -25,3 +25,4 @@ Select all that apply:
 - [ ] Code follows project conventions
 - [ ] Self-review completed
 - [ ] Documentation updated if needed
+- [ ] Assignee has been set
