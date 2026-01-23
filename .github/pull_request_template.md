@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **PR Title Requirement**
+> Please ensure your PR title is meaningful and descriptive. Since we use Squash and Merge, this title will become the permanent commit message in the repository history.
+
 ## Description
 Brief description of changes
 
